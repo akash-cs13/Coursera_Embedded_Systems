@@ -1,4 +1,4 @@
 ### Akash CS
-Coursera: INtroduction to Embedded Systems
+Coursera: Introduction to Embedded Systems
 <br />
 Week 1
