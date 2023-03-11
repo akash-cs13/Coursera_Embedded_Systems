@@ -1,3 +1,4 @@
 ### Akash CS
-## Coursera: INtroduction to Embedded Systems
-## Week 1
+Coursera: INtroduction to Embedded Systems
+<br />
+Week 1
